@@ -5,4 +5,5 @@
   flex-direction: column;
   position: relative;
   padding-top: 100px;
+  box-sizing: border-box;
 }
